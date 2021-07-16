@@ -1,4 +1,4 @@
-Hi!
+HI! Only random things to see here :)
 
 <!---
 RedSkyi/RedSkyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
